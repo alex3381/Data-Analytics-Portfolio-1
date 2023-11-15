@@ -1,4 +1,4 @@
-# "Unveiling COVID-19 Realities: A Comprehensive MSSQL Subquery Analytics Portfolio on Global Deaths - "Data-Analytics-Portfolio-1
+# Unveiling COVID-19 Realities: A Comprehensive MSSQL Subquery Analytics Portfolio on Global Deaths
 Data Analytics Portfolio with Basic, Intermediate and advanced MSSQL Subqueries for 4 Large Data Sets
 Data Analytics Portfolio with Basic, Intermediate and advanced MSSQL Subqueries
 
